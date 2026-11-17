@@ -3,7 +3,7 @@ name = "SigmaOS-dependency-version-solver"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "dependency-version-solver component"
+description = "Dependency Version Solver"
 upstream = []
 
 [contract]
